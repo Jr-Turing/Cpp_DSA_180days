@@ -1,0 +1,15 @@
+# Executables and Object files
+*.exe
+# *.out
+# *.o
+# *.obj
+
+# IDE files
+# .idea/
+# .vscode/
+# *.sln
+# *.vcxproj
+
+# # Build directories
+# build/
+# out/
