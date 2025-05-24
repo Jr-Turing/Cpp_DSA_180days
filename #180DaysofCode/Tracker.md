@@ -13,8 +13,8 @@
 | 4 | 4 | [If Else Statement and Loop](https://youtu.be/gGaJJovz-4k) | [Day 04](../Data%20Structures%20%26%20Algorithms/Day%2004/) | ✔️ | ✔️ | ✔️
 | 5 | 5 | [For Loop Advance](https://youtu.be/7qINbIQK_J8) | [Day 05](../Data%20Structures%20%26%20Algorithms/Day%2005/) | ✔️ | ✔️ | ✔️
 | 6 | 6 | [Pattern Print Problems Part-1](https://youtu.be/0LawAwK5OaI) | [Day 06](../Data%20Structures%20%26%20Algorithms/Day%2006/) | ✔️ | ✔️ | ✔️
-| 7 | 7 | [Pattern Print Problems Part-2](https://youtu.be/-o6MPFfGipU) | [Day 07]() ||  |
-| 8 | 8 | [Pattern Print Problems Part-3](https://youtu.be/mtQwWAxWbDY) | [Day 08]() ||  |
-| 9 | 9 | [Top 5 Advance Pattern Print Problems](https://youtu.be/CaLtCuji8z0) | [Day 09]() ||  |
-| 10 | 10 | [Operators In C++]() | [Day 10](https://youtu.be/HI0mNthclGE) ||  |
+| 7 | 7 | [Pattern Print Problems Part-2](https://youtu.be/-o6MPFfGipU) | [Day 07](../Data%20Structures%20%26%20Algorithms/Day%2007/) | ✔️ | ✔️ | ✔️
+| 8 | 8 | [Pattern Print Problems Part-3](https://youtu.be/mtQwWAxWbDY) | [Day 08](../Data%20Structures%20%26%20Algorithms/Day%2008/) | ✔️ | ✔️ | ✔️
+| 9 | 9 | [Top 5 Advance Pattern Print Problems](https://youtu.be/CaLtCuji8z0) | [Day 09](../Data%20Structures%20%26%20Algorithms/Day%2009/) | ✔️ | ✔️ | ✔️
+| 10 | 10 | [Operators In C++](https://youtu.be/HI0mNthclGE) | [Day 10](../Data%20Structures%20%26%20Algorithms/Day%2010/) | ✔️ | ✔️ | ✔️
 | | | []() ||| []() |
